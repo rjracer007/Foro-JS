@@ -6,7 +6,7 @@ Este proyecto es una plataforma de **Foro Web** interactiva desarrollada con Jav
 
 * **Publicación de Posts:** Creación de hilos de discusión con títulos y contenido detallado.
 * **Sistema de Comentarios:** Interacción dinámica que permite responder a las publicaciones existentes.
-* **Persistencia de Datos:** [Menciona si usas LocalStorage o API] para que las discusiones no se pierdan al recargar la página.
+* **Persistencia de Datos:** Aplicacion de LocalStorage o API para que las discusiones no se pierdan al recargar la página.
 * **Filtrado y Búsqueda:** Capacidad para navegar entre diferentes temas o categorías del foro.
 * **Interfaz Dinámica:** Actualización del DOM en tiempo real para reflejar nuevas publicaciones sin recargar el sitio.
 
@@ -21,7 +21,7 @@ Este proyecto es una plataforma de **Foro Web** interactiva desarrollada con Jav
 
 * `index.html`: Estructura principal y contenedores de los posts.
 * `style.css`: Estilos para las tarjetas de discusión y comentarios.
-* `forum.js`: Lógica de creación de posts, validación y renderizado dinámico.
+* `script.js`: Lógica de creación de posts, validación y renderizado dinámico.
 
 ## ⚙️ Instalación y Uso
 
